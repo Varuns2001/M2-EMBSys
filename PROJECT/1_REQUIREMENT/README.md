@@ -15,14 +15,6 @@ In this project we will learn how to decode IR remote signals with Arduino and t
 .Breadboard.<br>
 .Connecting Wires.<br>
 
-REQUIREMENT:<br>
-HIGH LEVEL REQUIREMENT:<br>
-.Arduino should get the corresponding sinal from the IR sensor.<br>
-.IR remote should control the motor properly.<br>
-
-LOW LEVEL REQUIREMENT:<br>
-.The components should be in proper working condition.<br>
-.The inputs/outputs should get correctly.<br> 
 
 
 BLOCK DIAGRAM:<br>
