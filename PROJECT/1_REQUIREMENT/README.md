@@ -29,6 +29,21 @@ HIGH LEVEL REQUIREMENT:<br>
 # SWOT ANALYSIS:
 ![Capture](https://user-images.githubusercontent.com/99092710/157286496-348f2e6f-daef-460c-a51e-9e182d97585a.PNG)
 
+# 4W'S AND 1'H:<br>
+WHY:<br>
+In this project we will learn how to decode IR remote signals with Arduino and to control DC motors depending on the button pressed.<br>
+
+WHAT:<br>
+CONTROLLING DC MOTOR USING ARDUINO AND IR REMOTE.<>br
+
+WHEN:<br>
+Whwenever the speed an direction of DC motor to be changed.<br>
+
+WHERE:<br>
+Automation Industries,Vehicle.
+
+HOW:<br>
+By using sensors and the remote we can do the process.
 
 
 
