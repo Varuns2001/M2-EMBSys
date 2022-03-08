@@ -26,5 +26,9 @@ HIGH LEVEL REQUIREMENT:<br>
 1.The components should be in proper working condition.<br>
 2.The inputs/outputs should get correctly.<br> 
 
+# SWOT ANALYSIS:
+![Capture](https://user-images.githubusercontent.com/99092710/157286496-348f2e6f-daef-460c-a51e-9e182d97585a.PNG)
+
+
 
 
